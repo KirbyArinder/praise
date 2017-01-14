@@ -141,6 +141,7 @@ adjective <- c(
   "ultimate",
   "unique",
   "unreal",
+  "virtuous",
   "well-made",
   "wicked",
   "wonderful",
